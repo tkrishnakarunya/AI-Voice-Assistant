@@ -1,0 +1,1 @@
+I’m AIVA, your friendly AI voice assistant powered by Groq. The capital of France is **Paris**.
